@@ -40,7 +40,7 @@ print(tshirts)
 
 关于Python2.x中变量泄漏问题，实例如下图：
 
-![alt 变量泄漏](C:\Users\ASUS\Desktop\2.png)
+![alt 变量泄漏](https://github.com/zwq1216/combing_notes/blob/master/Python/images/2.png)
 
 如图中所见x的值被取代了，<b>所以在Python2.x中使用时请注意</b>。此问题在Python3中不存在。
 
